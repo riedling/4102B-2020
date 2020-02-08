@@ -1,0 +1,78 @@
+CSE4102 Team Semester Project
+Due Dates as Below
+
+For your team semester project, form teams of 2students to explore indepth a programming 
+language, and submit a multiple part report and PowerPoint presentation  with Specific 
+content/objectives and responsibilities as given as four deliverables: 
+
+
+A.	Identify the Issues and Questions of your topic by providing a one-page discussion 
+of your chosen programming language. Why did you choose your programming 
+language? What types of problems does it solve? What application domain means is 
+it relevant for? When how and who were the inventors of the programming 
+language?
+
+
+B.	10-15 page final report your chosen programming language.  Expand the one piece 
+discussion more detail. Discuss from the perspective of technology perspective,  the 
+compiler available and the platforms  the IDE etc.
+
+
+C.	Demonstrate your chosen programming language through code perhaps using 
+word count or word frequency program if relevant.  
+
+
+D.	40-50 slide PPT presentation on your chosen programming language using the 
+CSE4102 template on the course web page.  This presentation should include the 
+material from A, B, and C. Note that you also need to prepare a maximum 25 slide 
+reduced version for presentation in the class.
+
+
+The intent is for one team member to be responsible for B in a second team member to be 
+responsible for D in both team members to share A and C.
+
+Possible Languages to consider are based on categories or application domains or for 
+specific purposes:
+
+
+1.	Languages for IoT, concurrency/parallelism, machine learning, secure transactions
+2.	Categories as in List_of_programming_languages_by_type 
+3.	Time period organization as in 
+https://en.m.wikipedia.org/wiki/Timeline_of_programming_languages  
+
+
+You cannot choose any language from the course programming assignments (C, C++, 
+Pascal, Modula-2, Ada, Prolog, Go), if it?s covered extensively in class (Fortran, COBOL), 
+from a CSE class (Python, scheme), or is  widely in use  (Java, JavaScript, C#, Objective-
+C, Swift, etc.).
+
+
+Make sure you select a language that has an available compiler to utilize for demonstration 
+and testing purposes.
+
+
+Your team needs to get approval by the instructor for the chosen language.
+
+
+Formatting and Submission Requirements:
+
+*	All slides must be formatted with  cse4102template.pptx 
+*	Slide 2 of  cse4102template.pptx has organization of final PPT.
+*	For written reports A and B,, 1 page is 12pt, 1in margins, single spaced, Times New 
+Roman fonts. You must submit an MS Word Document.
+*	For presentations, use PowerPoint.
+*	Tables, Figures, etc. are not counted in the page requirements of B.
+
+Important dates
+ 
+By  January 29  at 11:59pm: submit to Steve: a list of team members, your chosen 
+programming language and a one-paragraph description of the language, and which team 
+member is doing which deliverable (B and D).
+ 
+By  April 16 at 11:59pm: submit to Steve the two PPT presentations (short and long). 
+
+Presentations in Class April 17/19/24/26 and May 1/3
+
+By  May 4 at midnight at 11:59pm: submit your final report.
+
+
