@@ -32,10 +32,6 @@ fn demo_looping() {
 		match iter.next(){
 			Some(title) => {
 				println!("{}", title);
-
-				//filename = i.to_string();
-				//println!("{}",filename.clone());
-				//counts = wcf_in_full(filename); 
 			}
 			None => { break }
 		}
@@ -45,8 +41,6 @@ fn demo_looping() {
 	for chapter in book.iter() {
 		println!("{}", chapter);
 	}
-
-
 }
 
 fn demo_shadowing() {
